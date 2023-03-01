@@ -10,7 +10,7 @@ Software developer equipped with a diverse and promising skill-set. Able to effe
 |---|---|---|---|---|
 
 **My skill-set:** 
-- PHP, MySQL, Laravel
+- PHP, MySQL, Laravel, Symfony
 - Unit & Integration testing (including TDD methods)
 -  MVC, SOLID & design patterns (KISS, DRY etc.) 
 -  GIT, Building REST API 
